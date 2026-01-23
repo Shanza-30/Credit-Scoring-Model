@@ -27,7 +27,3 @@ Classification Report (Precision, Recall, F1-Score)
 ROC-AUC for binary classification
 
 Confusion Matrix visualization
-
-Author
-
-Shanza Shakeel
