@@ -1,6 +1,6 @@
 # 💳 Credit Scoring Model
 
-This project predicts an individual's **creditworthiness** based on historical financial data. It applies multiple **classification algorithms** such as **Logistic Regression, Decision Tree, and Random Forest** to classify credit scores as **Good** or **Bad**.
+This project task 1 code alpha predicts an individual's **creditworthiness** based on historical financial data. It applies multiple **classification algorithms** such as **Logistic Regression, Decision Tree, and Random Forest** to classify credit scores as **Good** or **Bad**.
 
 The goal is to evaluate model performance and select the best-performing model for reliable credit risk assessment.
 
